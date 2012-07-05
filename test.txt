@@ -1,0 +1,2 @@
+Simpel plain text file.
+To test libgit2 fetch example.
